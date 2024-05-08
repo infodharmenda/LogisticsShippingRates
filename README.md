@@ -1,10 +1,10 @@
 Please consider the below factors while contributing
 
-Codw Style:
+Code Style:
 Maintain a consistent code style for readability.
 
 Documantation:
-Ensure well-documented code foe effective collaboration.
+Ensure well-documented code for effective collaboration.
 
 Testing:
 Throughly test your changes before submitting a pull request.
